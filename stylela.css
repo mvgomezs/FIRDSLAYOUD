@@ -68,10 +68,15 @@ main{
     height: 80vh;
     background: var(--main-color);
 }
-/* main section.contenedor{
+main section.contenedor{
     
     width: 30vw;
-    height: 100vh;
-    background: white;
+    height: 70vh;
+    background: rgb(2, 2, 54);
 }
- */
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: var(--header-color); 
+    position: relative;
+}
