@@ -74,9 +74,46 @@ main section.contenedor{
     height: 70vh;
     background: rgb(2, 2, 54);
 }
+.contenedor__gatito #pato
+{
+    background: var(--main-color);
+    font-size: 2rem;
+    width: 27vw;
+    height: 20vh;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    padding: 10px;
+}
+
+.contenedor__gatito #gato
+{
+    background: var(--main-color);
+    font-size: 2rem;
+    width: 27vw;
+    height: 20vh;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    padding: 10px;
+}
+
+.contenedor__gatito #ganso
+{
+    background: var(--main-color);
+    font-size: 2rem;
+    width: 27vw;
+    height: 20vh;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    padding: 10px;
+}
+
 footer{
     width: 100vw;
     height: 10vh;
     background-color: var(--header-color); 
     position: relative;
 }
+
